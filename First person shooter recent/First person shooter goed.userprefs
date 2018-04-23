@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Weaponswitch.cs">
+    <Files>
+      <File FileName="Assets\Scripts\DiscRifle.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Rocketlauncer_script.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Rocketscript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DiskScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Weaponswitch.cs" Line="3" Column="19" />
+      <File FileName="Assets\Scripts\enemyAIscript_.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\enemybulletscript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Healthscript1.cs" Line="3" Column="1" />
+      <File FileName="Assets\Scripts\Player_control.cs" Line="3" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Rocketlauncer_script.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Weaponswitch.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player_control.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\enemyAIscript_.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Mouselook.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Laser_script.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Rocketscript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Healthscript1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HealthscriptRB.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\enemybulletscript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Rocketlauncer_script.cs" Line="46" Column="56" />
+      <File FileName="Assets\Scripts\DiscRifle.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="E:\Games\First person shooter\Assets\Scripts\Healthscript1.cs" line="36" column="26" />
+      <FunctionBreakpoint line="17" column="1" function="stop" language="C#" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

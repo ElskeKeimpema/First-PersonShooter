@@ -1,0 +1,263 @@
+E:\First person shooter\Temp\bin\Debug\Assembly-CSharp.dll
+E:\First person shooter\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\First person shooter\Temp\bin\Debug\UnityEditor.dll
+E:\First person shooter\Temp\bin\Debug\UnityEngine.dll
+E:\First person shooter\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\First person shooter\Temp\bin\Debug\UnityEngine.UI.dll
+E:\First person shooter\Temp\bin\Debug\Mono.Cecil.dll
+E:\First person shooter\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\First person shooter\Temp\bin\Debug\Unity.DataContract.dll
+E:\First person shooter\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\First person shooter\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\First person shooter\Temp\bin\Debug\Unity.CecilTools.dll
+E:\First person shooter\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\First person shooter\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\First person shooter\Temp\bin\Debug\UnityEngine.xml
+E:\First person shooter\Temp\bin\Debug\UnityEditor.xml
+E:\First person shooter\Temp\bin\Debug\UnityEngine.UI.xml
+E:\First person shooter\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\First person shooter\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\First person shooter\obj\Debug\Assembly-CSharp.dll
+E:\First person shooter\obj\Debug\Assembly-CSharp.pdb
+E:\Games\First person shooter\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\Games\First person shooter\obj\Debug\Assembly-CSharp.dll
+E:\Games\First person shooter\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Games\First person shooter\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Games\First person shooter\Temp\bin\Debug\UnityEditor.dll
+E:\Games\First person shooter\Temp\bin\Debug\UnityEngine.dll
+E:\Games\First person shooter\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Games\First person shooter\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Games\First person shooter\Temp\bin\Debug\Mono.Cecil.dll
+E:\Games\First person shooter\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Games\First person shooter\Temp\bin\Debug\Unity.DataContract.dll
+E:\Games\First person shooter\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Games\First person shooter\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Games\First person shooter\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Games\First person shooter\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Games\First person shooter\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Games\First person shooter\Temp\bin\Debug\UnityEngine.xml
+E:\Games\First person shooter\Temp\bin\Debug\UnityEditor.xml
+E:\Games\First person shooter\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Games\First person shooter\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Games\First person shooter\obj\Debug\Assembly-CSharp.pdb
+D:\Games\First person shooter\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Games\First person shooter\obj\Debug\Assembly-CSharp.dll
+D:\Games\First person shooter\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Games\First person shooter\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Games\First person shooter\Temp\bin\Debug\Mono.Cecil.dll
+D:\Games\First person shooter\Temp\bin\Debug\UnityEditor.dll
+D:\Games\First person shooter\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+D:\Games\First person shooter\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\Games\First person shooter\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Games\First person shooter\Temp\bin\Debug\UnityEngine.dll
+D:\Games\First person shooter\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Games\First person shooter\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Games\First person shooter\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+D:\Games\First person shooter\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Games\First person shooter\Temp\bin\Debug\UnityEngine.VR.dll
+D:\Games\First person shooter\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Games\First person shooter\Temp\bin\Debug\Unity.DataContract.dll
+D:\Games\First person shooter\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Games\First person shooter\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Games\First person shooter\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Games\First person shooter\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Games\First person shooter\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Games\First person shooter\Temp\bin\Debug\UnityEngine.xml
+D:\Games\First person shooter\Temp\bin\Debug\UnityEditor.xml
+D:\Games\First person shooter\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Games\First person shooter\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Games\First person shooter\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+D:\Games\First person shooter\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\Games\First person shooter\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Games\First person shooter\Temp\bin\Debug\UnityEngine.VR.xml
+D:\Games\First person shooter\obj\Debug\Assembly-CSharp.pdb
+J:\First person shooter\Temp\bin\Debug\Assembly-CSharp.dll
+J:\First person shooter\Temp\bin\Debug\Assembly-CSharp.pdb
+J:\First person shooter\Temp\bin\Debug\Mono.Cecil.dll
+J:\First person shooter\Temp\bin\Debug\UnityEditor.dll
+J:\First person shooter\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+J:\First person shooter\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+J:\First person shooter\Temp\bin\Debug\UnityEngine.Analytics.dll
+J:\First person shooter\Temp\bin\Debug\UnityEngine.dll
+J:\First person shooter\Temp\bin\Debug\UnityEngine.HoloLens.dll
+J:\First person shooter\Temp\bin\Debug\UnityEngine.Networking.dll
+J:\First person shooter\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+J:\First person shooter\Temp\bin\Debug\UnityEngine.UI.dll
+J:\First person shooter\Temp\bin\Debug\UnityEngine.VR.dll
+J:\First person shooter\Temp\bin\Debug\Unity.SerializationLogic.dll
+J:\First person shooter\Temp\bin\Debug\Unity.DataContract.dll
+J:\First person shooter\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+J:\First person shooter\Temp\bin\Debug\Unity.UNetWeaver.dll
+J:\First person shooter\Temp\bin\Debug\Unity.CecilTools.dll
+J:\First person shooter\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+J:\First person shooter\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+J:\First person shooter\Temp\bin\Debug\UnityEngine.xml
+J:\First person shooter\Temp\bin\Debug\UnityEditor.xml
+J:\First person shooter\Temp\bin\Debug\UnityEngine.UI.xml
+J:\First person shooter\Temp\bin\Debug\UnityEngine.Networking.xml
+J:\First person shooter\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+J:\First person shooter\Temp\bin\Debug\UnityEngine.Analytics.xml
+J:\First person shooter\Temp\bin\Debug\UnityEngine.HoloLens.xml
+J:\First person shooter\Temp\bin\Debug\UnityEngine.VR.xml
+J:\First person shooter\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+J:\First person shooter\obj\Debug\Assembly-CSharp.dll
+J:\First person shooter\obj\Debug\Assembly-CSharp.pdb
+J:\First person shooter 2\Temp\bin\Debug\Assembly-CSharp.dll
+J:\First person shooter 2\Temp\bin\Debug\Assembly-CSharp.pdb
+J:\First person shooter 2\Temp\bin\Debug\Mono.Cecil.dll
+J:\First person shooter 2\Temp\bin\Debug\UnityEditor.dll
+J:\First person shooter 2\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+J:\First person shooter 2\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+J:\First person shooter 2\Temp\bin\Debug\UnityEngine.Analytics.dll
+J:\First person shooter 2\Temp\bin\Debug\UnityEngine.dll
+J:\First person shooter 2\Temp\bin\Debug\UnityEngine.HoloLens.dll
+J:\First person shooter 2\Temp\bin\Debug\UnityEngine.Networking.dll
+J:\First person shooter 2\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+J:\First person shooter 2\Temp\bin\Debug\UnityEngine.UI.dll
+J:\First person shooter 2\Temp\bin\Debug\UnityEngine.VR.dll
+J:\First person shooter 2\Temp\bin\Debug\Unity.SerializationLogic.dll
+J:\First person shooter 2\Temp\bin\Debug\Unity.DataContract.dll
+J:\First person shooter 2\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+J:\First person shooter 2\Temp\bin\Debug\Unity.UNetWeaver.dll
+J:\First person shooter 2\Temp\bin\Debug\Unity.CecilTools.dll
+J:\First person shooter 2\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+J:\First person shooter 2\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+J:\First person shooter 2\Temp\bin\Debug\UnityEngine.xml
+J:\First person shooter 2\Temp\bin\Debug\UnityEditor.xml
+J:\First person shooter 2\Temp\bin\Debug\UnityEngine.UI.xml
+J:\First person shooter 2\Temp\bin\Debug\UnityEngine.Networking.xml
+J:\First person shooter 2\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+J:\First person shooter 2\Temp\bin\Debug\UnityEngine.Analytics.xml
+J:\First person shooter 2\Temp\bin\Debug\UnityEngine.HoloLens.xml
+J:\First person shooter 2\Temp\bin\Debug\UnityEngine.VR.xml
+J:\First person shooter 2\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+J:\First person shooter 2\obj\Debug\Assembly-CSharp.dll
+J:\First person shooter 2\obj\Debug\Assembly-CSharp.pdb
+K:\First person shooter goed\Temp\bin\Debug\Assembly-CSharp.dll
+K:\First person shooter goed\Temp\bin\Debug\Assembly-CSharp.pdb
+K:\First person shooter goed\Temp\bin\Debug\Mono.Cecil.dll
+K:\First person shooter goed\Temp\bin\Debug\UnityEditor.dll
+K:\First person shooter goed\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+K:\First person shooter goed\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+K:\First person shooter goed\Temp\bin\Debug\UnityEngine.Analytics.dll
+K:\First person shooter goed\Temp\bin\Debug\UnityEngine.dll
+K:\First person shooter goed\Temp\bin\Debug\UnityEngine.HoloLens.dll
+K:\First person shooter goed\Temp\bin\Debug\UnityEngine.Networking.dll
+K:\First person shooter goed\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+K:\First person shooter goed\Temp\bin\Debug\UnityEngine.UI.dll
+K:\First person shooter goed\Temp\bin\Debug\UnityEngine.VR.dll
+K:\First person shooter goed\Temp\bin\Debug\Unity.SerializationLogic.dll
+K:\First person shooter goed\Temp\bin\Debug\Unity.DataContract.dll
+K:\First person shooter goed\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+K:\First person shooter goed\Temp\bin\Debug\Unity.UNetWeaver.dll
+K:\First person shooter goed\Temp\bin\Debug\Unity.CecilTools.dll
+K:\First person shooter goed\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+K:\First person shooter goed\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+K:\First person shooter goed\Temp\bin\Debug\UnityEngine.xml
+K:\First person shooter goed\Temp\bin\Debug\UnityEditor.xml
+K:\First person shooter goed\Temp\bin\Debug\UnityEngine.UI.xml
+K:\First person shooter goed\Temp\bin\Debug\UnityEngine.Networking.xml
+K:\First person shooter goed\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+K:\First person shooter goed\Temp\bin\Debug\UnityEngine.Analytics.xml
+K:\First person shooter goed\Temp\bin\Debug\UnityEngine.HoloLens.xml
+K:\First person shooter goed\Temp\bin\Debug\UnityEngine.VR.xml
+K:\First person shooter goed\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+K:\First person shooter goed\obj\Debug\Assembly-CSharp.dll
+K:\First person shooter goed\obj\Debug\Assembly-CSharp.pdb
+F:\First person shooter goed\Temp\bin\Debug\Assembly-CSharp.dll
+F:\First person shooter goed\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\First person shooter goed\Temp\bin\Debug\Mono.Cecil.dll
+F:\First person shooter goed\Temp\bin\Debug\UnityEditor.dll
+F:\First person shooter goed\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+F:\First person shooter goed\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+F:\First person shooter goed\Temp\bin\Debug\UnityEngine.Analytics.dll
+F:\First person shooter goed\Temp\bin\Debug\UnityEngine.dll
+F:\First person shooter goed\Temp\bin\Debug\UnityEngine.HoloLens.dll
+F:\First person shooter goed\Temp\bin\Debug\UnityEngine.Networking.dll
+F:\First person shooter goed\Temp\bin\Debug\UnityEngine.UI.dll
+F:\First person shooter goed\Temp\bin\Debug\UnityEngine.VR.dll
+F:\First person shooter goed\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\First person shooter goed\Temp\bin\Debug\Unity.DataContract.dll
+F:\First person shooter goed\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\First person shooter goed\Temp\bin\Debug\Unity.UNetWeaver.dll
+F:\First person shooter goed\Temp\bin\Debug\Unity.CecilTools.dll
+F:\First person shooter goed\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+F:\First person shooter goed\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+F:\First person shooter goed\Temp\bin\Debug\UnityEngine.xml
+F:\First person shooter goed\Temp\bin\Debug\UnityEditor.xml
+F:\First person shooter goed\Temp\bin\Debug\UnityEngine.UI.xml
+F:\First person shooter goed\Temp\bin\Debug\UnityEngine.Networking.xml
+F:\First person shooter goed\Temp\bin\Debug\UnityEngine.Analytics.xml
+F:\First person shooter goed\Temp\bin\Debug\UnityEngine.HoloLens.xml
+F:\First person shooter goed\Temp\bin\Debug\UnityEngine.VR.xml
+F:\First person shooter goed\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+F:\First person shooter goed\obj\Debug\Assembly-CSharp.dll
+F:\First person shooter goed\obj\Debug\Assembly-CSharp.pdb
+F:\First person shooter goed\Temp\bin\Debug\Facebook.Unity.Settings.dll
+F:\First person shooter goed\Temp\bin\Debug\nunit.framework.dll
+F:\First person shooter goed\Temp\bin\Debug\UnityEngine.TestRunner.dll
+F:\First person shooter goed\Temp\bin\Debug\UnityEngine.TestRunner.xml
+F:\First person shooter goed\Temp\bin\Debug\nunit.framework.xml
+F:\First person shooter recent\Temp\bin\Debug\Assembly-CSharp.dll
+F:\First person shooter recent\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\First person shooter recent\Temp\bin\Debug\Facebook.Unity.Settings.dll
+F:\First person shooter recent\Temp\bin\Debug\Mono.Cecil.dll
+F:\First person shooter recent\Temp\bin\Debug\nunit.framework.dll
+F:\First person shooter recent\Temp\bin\Debug\UnityEditor.dll
+F:\First person shooter recent\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+F:\First person shooter recent\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+F:\First person shooter recent\Temp\bin\Debug\UnityEngine.Analytics.dll
+F:\First person shooter recent\Temp\bin\Debug\UnityEngine.dll
+F:\First person shooter recent\Temp\bin\Debug\UnityEngine.HoloLens.dll
+F:\First person shooter recent\Temp\bin\Debug\UnityEngine.Networking.dll
+F:\First person shooter recent\Temp\bin\Debug\UnityEngine.TestRunner.dll
+F:\First person shooter recent\Temp\bin\Debug\UnityEngine.UI.dll
+F:\First person shooter recent\Temp\bin\Debug\UnityEngine.VR.dll
+F:\First person shooter recent\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\First person shooter recent\Temp\bin\Debug\Unity.DataContract.dll
+F:\First person shooter recent\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\First person shooter recent\Temp\bin\Debug\Unity.UNetWeaver.dll
+F:\First person shooter recent\Temp\bin\Debug\Unity.CecilTools.dll
+F:\First person shooter recent\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+F:\First person shooter recent\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+F:\First person shooter recent\Temp\bin\Debug\UnityEngine.xml
+F:\First person shooter recent\Temp\bin\Debug\UnityEditor.xml
+F:\First person shooter recent\Temp\bin\Debug\UnityEngine.UI.xml
+F:\First person shooter recent\Temp\bin\Debug\UnityEngine.Networking.xml
+F:\First person shooter recent\Temp\bin\Debug\UnityEngine.TestRunner.xml
+F:\First person shooter recent\Temp\bin\Debug\nunit.framework.xml
+F:\First person shooter recent\Temp\bin\Debug\UnityEngine.Analytics.xml
+F:\First person shooter recent\Temp\bin\Debug\UnityEngine.HoloLens.xml
+F:\First person shooter recent\Temp\bin\Debug\UnityEngine.VR.xml
+F:\First person shooter recent\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+F:\First person shooter recent\obj\Debug\Assembly-CSharp.dll
+F:\First person shooter recent\obj\Debug\Assembly-CSharp.pdb
+E:\First person shooter recent\Temp\bin\Debug\Assembly-CSharp.dll
+E:\First person shooter recent\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\First person shooter recent\Temp\bin\Debug\UnityEditor.dll
+E:\First person shooter recent\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\First person shooter recent\Temp\bin\Debug\UnityEngine.dll
+E:\First person shooter recent\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\First person shooter recent\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\First person shooter recent\Temp\bin\Debug\UnityEngine.UI.dll
+E:\First person shooter recent\Temp\bin\Debug\UnityEngine.VR.dll
+E:\First person shooter recent\Temp\bin\Debug\Mono.Cecil.dll
+E:\First person shooter recent\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\First person shooter recent\Temp\bin\Debug\Unity.DataContract.dll
+E:\First person shooter recent\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\First person shooter recent\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\First person shooter recent\Temp\bin\Debug\Unity.CecilTools.dll
+E:\First person shooter recent\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\First person shooter recent\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\First person shooter recent\Temp\bin\Debug\UnityEngine.xml
+E:\First person shooter recent\Temp\bin\Debug\UnityEditor.xml
+E:\First person shooter recent\Temp\bin\Debug\UnityEngine.UI.xml
+E:\First person shooter recent\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\First person shooter recent\Temp\bin\Debug\UnityEngine.Analytics.xml
+E:\First person shooter recent\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\First person shooter recent\Temp\bin\Debug\UnityEngine.VR.xml
+E:\First person shooter recent\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\First person shooter recent\obj\Debug\Assembly-CSharp.dll
+E:\First person shooter recent\obj\Debug\Assembly-CSharp.pdb
+E:\First person shooter recent\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+E:\First person shooter recent\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
